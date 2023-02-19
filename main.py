@@ -11,7 +11,7 @@ client = discord.Client(intents=intents)
 # token = insert token here before use
 weather_prefix = 't.weather.'
 command_prefix = 't.'
-api_key = '2343e03e37d6ba7b5cc3ba3511030c44'
+# api_key = insert api_key here before use
 
 
 @client.event
